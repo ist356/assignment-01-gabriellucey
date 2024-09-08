@@ -23,3 +23,5 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+After completeing Assignment 1 I learned how to use all of the visual studio code features for testing code. I now understand that when running tests the test stops once one of the tests fails. I was a little confused on how the debugger worked but I think once I use it with more complex code I can understand it more. When creating the code for the numbers dictionary I needed a refresher on how to use while loops and appending so I used Github Copilot to help me write the code. However, when using Copilot I noticed that it pretty much gave me all the code which is useful but it is important that when I use it I am understanding all the code that it gives me. Overall, I did not struggle with this asssignment but may need more practice with the debugging tool.
+
